@@ -1,3 +1,2 @@
 # Python-Projects
-This project is based on Cinema Booking System which has an age limit for different movies and there are only 6 tickets for every movie... 
-THANK YOU.
+
